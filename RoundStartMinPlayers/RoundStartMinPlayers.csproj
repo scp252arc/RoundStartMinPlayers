@@ -40,43 +40,13 @@
         <Reference Include="Assembly-CSharp">
             <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\Assembly-CSharp-Publicized.dll</HintPath>
         </Reference>
-        <Reference Include="Assembly-CSharp-firstpass">
-            <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\Assembly-CSharp-firstpass.dll</HintPath>
-        </Reference>
-        <Reference Include="CommandSystem.Core">
-            <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\CommandSystem.Core.dll</HintPath>
-        </Reference>
-        <Reference Include="DnsClient">
-            <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\DnsClient.dll</HintPath>
-        </Reference>
         <Reference Include="LabApi">
             <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\LabApi.dll</HintPath>
-        </Reference>
-        <Reference Include="Mirror">
-            <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\Mirror.dll</HintPath>
         </Reference>
         <Reference Include="NorthwoodLib">
             <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\NorthwoodLib.dll</HintPath>
         </Reference>
-        <Reference Include="Pooling">
-            <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\Pooling.dll</HintPath>
-        </Reference>
         <Reference Include="System"/>
-        <Reference Include="System.Core"/>
-        <Reference Include="System.Data"/>
-        <Reference Include="System.Xml"/>
-        <Reference Include="Unity.TextMeshPro">
-            <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\Unity.TextMeshPro.dll</HintPath>
-        </Reference>
-        <Reference Include="UnityEngine">
-            <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\UnityEngine.dll</HintPath>
-        </Reference>
-        <Reference Include="UnityEngine.CoreModule">
-            <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\UnityEngine.CoreModule.dll</HintPath>
-        </Reference>
-        <Reference Include="UnityEngine.PhysicsModule">
-            <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\UnityEngine.PhysicsModule.dll</HintPath>
-        </Reference>
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Configs\Config.cs"/>

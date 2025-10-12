@@ -15,15 +15,16 @@ namespace RoundStartMinPlayers
         public static RoundStartMinPlayers Instance;
 
         private Harmony _harmony;
+        
         public override string Author => "scp252arc";
 
         public override string Name => "RoundStartMinPlayers";
 
         public override string Description => "RoundStartMinPlayers";
 
-        public override Version Version => new Version(1, 0, 0);
+        public override Version Version => new(1, 0, 0);
 
-        public override Version RequiredApiVersion => new Version(LabApiProperties.CompiledVersion);
+        public override Version RequiredApiVersion => new(LabApiProperties.CompiledVersion);
 
         public override void Enable()
         {
