@@ -9,3 +9,5 @@ If the number of players on the server is below this minimum, the round countdow
 MinPlayers — the minimum number of players needed to trigger the round start countdown. (Default: 2)
 
 Simply set this value in the plugin's configuration file to control when the round countdown begins.
+
+Dependency: 0Harmony.dll
