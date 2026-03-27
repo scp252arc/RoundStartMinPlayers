@@ -48,7 +48,7 @@ namespace RoundStartMinPlayers
     {
         private static IEnumerable<MethodBase> TargetMethods()
         {
-            var type = typeof(CharacterClassManager).Assembly.GetType("CharacterClassManager+<Init>d__26");
+            var type = typeof(CharacterClassManager).Assembly.GetType("CharacterClassManager+<Init>d__29");
             var method = type.GetMethod("MoveNext",
                 BindingFlags.Instance | BindingFlags.NonPublic | BindingFlags.Public);
             yield return method;

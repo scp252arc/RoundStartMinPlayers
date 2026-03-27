@@ -38,10 +38,10 @@
             <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\0Harmony.dll</HintPath>
         </Reference>
         <Reference Include="Assembly-CSharp">
-            <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\Assembly-CSharp-Publicized.dll</HintPath>
+          <HintPath>C:\Users\user.scp252arc\OneDrive\SCP SL SERVER\Dev\Assembly-CSharp-Publicized.dll</HintPath>
         </Reference>
         <Reference Include="LabApi">
-            <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\LabApi.dll</HintPath>
+          <HintPath>C:\Users\user.scp252arc\OneDrive\SCP SL SERVER\Dev\LabApi.dll</HintPath>
         </Reference>
         <Reference Include="NorthwoodLib">
             <HintPath>C:\Users\user\OneDrive\SCP SL SERVER\Dev\NorthwoodLib.dll</HintPath>
