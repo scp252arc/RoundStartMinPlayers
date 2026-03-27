@@ -1,4 +1,4 @@
-# RoundStartMinPlayers
+# RoundStartMinPlayers ![Downloads](https://img.shields.io/github/downloads/scp252arc/RoundStartMinPlayers/total)
 
 LabAPI plugin that allows you to set the minimum number of players required to start the round countdown.
 
